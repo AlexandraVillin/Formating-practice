@@ -1,0 +1,7 @@
+C:\Users\acolj\Desktop\programs\Formatiranje\obj\Debug\Formatiranje.csprojAssemblyReference.cache
+C:\Users\acolj\Desktop\programs\Formatiranje\obj\Debug\Formatiranje.csproj.CoreCompileInputs.cache
+C:\Users\acolj\Desktop\programs\Formatiranje\bin\Debug\Formatiranje.exe.config
+C:\Users\acolj\Desktop\programs\Formatiranje\bin\Debug\Formatiranje.exe
+C:\Users\acolj\Desktop\programs\Formatiranje\bin\Debug\Formatiranje.pdb
+C:\Users\acolj\Desktop\programs\Formatiranje\obj\Debug\Formatiranje.exe
+C:\Users\acolj\Desktop\programs\Formatiranje\obj\Debug\Formatiranje.pdb

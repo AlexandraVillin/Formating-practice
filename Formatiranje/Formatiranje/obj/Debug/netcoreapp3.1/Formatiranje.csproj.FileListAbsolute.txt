@@ -1,0 +1,13 @@
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\bin\Debug\netcoreapp3.1\Formatiranje.exe
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\bin\Debug\netcoreapp3.1\Formatiranje.deps.json
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\bin\Debug\netcoreapp3.1\Formatiranje.runtimeconfig.json
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\bin\Debug\netcoreapp3.1\Formatiranje.runtimeconfig.dev.json
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\bin\Debug\netcoreapp3.1\Formatiranje.dll
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\bin\Debug\netcoreapp3.1\Formatiranje.pdb
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\obj\Debug\netcoreapp3.1\Formatiranje.csprojAssemblyReference.cache
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\obj\Debug\netcoreapp3.1\Formatiranje.AssemblyInfoInputs.cache
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\obj\Debug\netcoreapp3.1\Formatiranje.AssemblyInfo.cs
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\obj\Debug\netcoreapp3.1\Formatiranje.csproj.CoreCompileInputs.cache
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\obj\Debug\netcoreapp3.1\Formatiranje.dll
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\obj\Debug\netcoreapp3.1\Formatiranje.pdb
+C:\Users\acolj\source\repos\Formatiranje\Formatiranje\obj\Debug\netcoreapp3.1\Formatiranje.genruntimeconfig.cache
